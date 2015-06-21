@@ -58,4 +58,9 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaClient.apk:/system/app/MobileFeliCaClient.apk \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaMenuApp.apk:/system/app/MobileFeliCaMenuApp.apk \
         vendor/htc/m7wlj/proprietary/app/MobileFeliCaSettingApp.apk:/system/app/MobileFeliCaSettingApp.apk \
-        vendor/htc/m7wlj/proprietary/app/MobileFeliCaWebPluginBoot.apk:/system/app/MobileFeliCaWebPluginBoot.apk
+        vendor/htc/m7wlj/proprietary/app/MobileFeliCaWebPluginBoot.apk:/system/app/MobileFeliCaWebPluginBoot.apk \
+	vendor/htc/m7wlj/proprietary/etc/snfc/auto_polling.cfg:/system/etc/snfc/auto_polling.cfg \
+	vendor/htc/m7wlj/proprietary/etc/snfc/rf.cfg:/system/etc/snfc/rf.cfg \
+	vendor/htc/m7wlj/proprietary/lib/libnfc_sony.so:/system/lib/libnfc_sony.so \
+	vendor/htc/m7wlj/proprietary/lib/libnfc_sony_jni.so:/system/lib/libnfc_sony_jni.so \
+	vendor/htc/m7wlj/proprietary/lib/libnfc_sony_ndef.so:/system/lib/libnfc_sony_ndef.so
