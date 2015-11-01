@@ -228,6 +228,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/etc/tfa/voice_l.preset:system/etc/tfa/voice_l.preset \
 	vendor/htc/dlxj/proprietary/etc/snfc/auto_polling.cfg:/system/etc/snfc/auto_polling.cfg \
 	vendor/htc/dlxj/proprietary/etc/snfc/rf.cfg:/system/etc/snfc/rf.cfg \
-	vendor/htc/dlxj/proprietary/lib/libnfc_sony.so:/system/lib/libnfc_sony.so \
-	vendor/htc/dlxj/proprietary/lib/libnfc_sony_jni.so:/system/lib/libnfc_sony_jni.so \
-	vendor/htc/dlxj/proprietary/lib/libnfc_sony_ndef.so:/system/lib/libnfc_sony_ndef.so
+	vendor/htc/dlxj/proprietary/lib/libnfc_jni.so:/system/lib/libnfc_jni.so \
+	vendor/htc/dlxj/proprietary/lib/libnfc_ndef.so:/system/lib/libnfc_ndef.so \
+        vendor/htc/dlxj/proprietary/lib/libsnfc.so:/system/lib/libsnfc.so \
+        vendor/htc/dlxj/proprietary/lib/libsnfc_ndef.so:/system/lib/libsnfc_ndef.so
