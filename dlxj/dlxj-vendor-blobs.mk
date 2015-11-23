@@ -116,7 +116,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/lib/libmpl.so:system/lib/libmpl.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_imx135_hfr.so:system/lib/libchromatix_imx135_hfr.so \
 	vendor/htc/dlxj/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
-        vendor/htc/dlxj/proprietary/lib/hw/consumerir.default.so:/system/lib/hw/consumerir.default.so \
 	vendor/htc/dlxj/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
 	vendor/htc/dlxj/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
 	vendor/htc/dlxj/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
