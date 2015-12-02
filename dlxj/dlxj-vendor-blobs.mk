@@ -53,7 +53,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
 	vendor/htc/dlxj/proprietary/bin/ks:system/bin/ks \
 	vendor/htc/dlxj/proprietary/bin/charging:system/bin/charging \
-	vendor/htc/dlxj/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
 	vendor/htc/dlxj/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
 	vendor/htc/dlxj/proprietary/bin/qmiproxy:system/bin/qmiproxy \
 	vendor/htc/dlxj/proprietary/bin/efsks:system/bin/efsks \
@@ -90,7 +89,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_imx135_hdr.so:system/lib/libchromatix_imx135_hdr.so \
-	vendor/htc/dlxj/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
 	vendor/htc/dlxj/proprietary/lib/hw/sensors.dlxj.so:system/lib/hw/sensors.dlxj.so \
 	vendor/htc/dlxj/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_vd6869_video_hdr.so:system/lib/libchromatix_vd6869_video_hdr.so \
@@ -98,7 +96,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_imx135_preview.so:system/lib/libchromatix_imx135_preview.so \
 	vendor/htc/dlxj/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-	vendor/htc/dlxj/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
 	vendor/htc/dlxj/proprietary/lib/libHTC_DIS.so:system/lib/libHTC_DIS.so \
 	vendor/htc/dlxj/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
 	vendor/htc/dlxj/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
