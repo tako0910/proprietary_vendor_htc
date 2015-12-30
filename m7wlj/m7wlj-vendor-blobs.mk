@@ -72,4 +72,5 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/lib/libJellyPG.so:/system/lib/libJellyPG.so \
         vendor/htc/m7wlj/proprietary/lib/libMTVMFCls.so:/system/lib/libMTVMFCls.so \
         vendor/htc/m7wlj/proprietary/lib/libnm325.so:/system/lib/libnm325.so \
-        vendor/htc/m7wlj/proprietary/lib/libBMLSupports.so:/system/lib/libBMLSupports.so
+        vendor/htc/m7wlj/proprietary/lib/libBMLSupports.so:/system/lib/libBMLSupports.so \
+        vendor/htc/m7wlj/proprietary/lib/libstlport.so:/system/lib/libstlport.so
