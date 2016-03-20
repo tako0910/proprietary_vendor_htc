@@ -57,7 +57,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/valentewx/proprietary/etc/felica/common.cfg:/system/etc/felica/common.cfg \
 	vendor/htc/valentewx/proprietary/etc/felica/mfm.cfg:/system/etc/felica/mfm.cfg \
 	vendor/htc/valentewx/proprietary/etc/felica/mfs.cfg:/system/etc/felica/mfs.cfg \
-	vendor/htc/valentewx/proprietary/app/GMobileTV.apk:/system/app/GMobileTV.apk \
         vendor/htc/valentewx/proprietary/app/KDDI_Felicalock.apk:/system/app/KDDI_Felicalock.apk \
         vendor/htc/valentewx/proprietary/app/MobileFeliCaClient.apk:/system/app/MobileFeliCaClient.apk \
         vendor/htc/valentewx/proprietary/app/MobileFeliCaMenuApp.apk:/system/app/MobileFeliCaMenuApp.apk \
