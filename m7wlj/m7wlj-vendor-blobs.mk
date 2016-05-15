@@ -65,12 +65,4 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7wlj/proprietary/lib/libnfc_jni.so:/system/lib/libnfc_jni.so \
         vendor/htc/m7wlj/proprietary/lib/libnfc_ndef.so:/system/lib/libnfc_ndef.so \
         vendor/htc/m7wlj/proprietary/lib/libsnfc.so:/system/lib/libsnfc.so \
-        vendor/htc/m7wlj/proprietary/lib/libsnfc_ndef.so:/system/lib/libsnfc_ndef.so \
-        vendor/htc/m7wlj/proprietary/bin/jellyservice:/system/bin/jellyservice \
-        vendor/htc/m7wlj/proprietary/bin/mtvmfrecservice:/system/bin/mtvmfrecservice \
-        vendor/htc/m7wlj/proprietary/bin/mtvmfservice:/system/bin/mtvmfservice \
-        vendor/htc/m7wlj/proprietary/lib/libJellyPG.so:/system/lib/libJellyPG.so \
-        vendor/htc/m7wlj/proprietary/lib/libMTVMFCls.so:/system/lib/libMTVMFCls.so \
-        vendor/htc/m7wlj/proprietary/lib/libnm325.so:/system/lib/libnm325.so \
-        vendor/htc/m7wlj/proprietary/lib/libBMLSupports.so:/system/lib/libBMLSupports.so \
-        vendor/htc/m7wlj/proprietary/lib/libstlport.so:/system/lib/libstlport.so
+        vendor/htc/m7wlj/proprietary/lib/libsnfc_ndef.so:/system/lib/libsnfc_ndef.so
