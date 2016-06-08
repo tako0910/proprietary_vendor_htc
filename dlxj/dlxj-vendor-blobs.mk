@@ -29,6 +29,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
+	vendor/htc/dlxj/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
 	vendor/htc/dlxj/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
@@ -38,6 +39,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libplayback_adreno.so:system/vendor/lib/egl/libplayback_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
+	vendor/htc/dlxj/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
