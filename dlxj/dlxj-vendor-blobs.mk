@@ -23,14 +23,13 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
 	vendor/htc/dlxj/proprietary/etc/firmware/lscbuffer_rev2.bin:system/etc/firmware/lscbuffer_rev2.bin \
 	vendor/htc/dlxj/proprietary/etc/firmware/ILP0100_IPM_Code_out.bin:system/etc/firmware/ILP0100_IPM_Code_out.bin \
-	vendor/htc/dlxj/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
 	vendor/htc/dlxj/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
 	vendor/htc/dlxj/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
-	vendor/htc/dlxj/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
+        vendor/htc/dlxj/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
