@@ -181,7 +181,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7-common/proprietary/bin/cir_fw_update:/system/bin/cir_fw_update \
         vendor/htc/m7-common/proprietary/etc/cir.img:/system/etc/cir.img \
         vendor/htc/m7-common/proprietary/lib/hw/consumerir.default.so:/system/lib/hw/consumerir.default.so \
-        vendor/htc/m7-common/proprietary/lib/libExtendedExtractor.so:/system/lib/libExtendedExtractor.so \
         vendor/htc/m7-common/proprietary/vendor/firmware/keymaster/keymaster.b00:/system/vendor/firmware/keymaster/keymaster.b00 \
         vendor/htc/m7-common/proprietary/vendor/firmware/keymaster/keymaster.b01:/system/vendor/firmware/keymaster/keymaster.b01 \
         vendor/htc/m7-common/proprietary/vendor/firmware/keymaster/keymaster.b02:/system/vendor/firmware/keymaster/keymaster.b02 \
