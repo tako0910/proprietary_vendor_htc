@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so:system/vendor/lib/egl/libGLESv2S3D_adreno.so \
+	vendor/htc/dlxj/proprietary/vendor/lib/egl/libplayback_adreno.so:system/vendor/lib/egl/libplayback_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
@@ -66,7 +67,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_vd6869_hdr.so:system/lib/libchromatix_vd6869_hdr.so \
 	vendor/htc/dlxj/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
 	vendor/htc/dlxj/proprietary/lib/hw/camera.vendor.msm8960.so:system/lib/hw/camera.vendor.msm8960.so \
-	vendor/htc/dlxj/proprietary/lib/libwriteback.so:system/lib/libwriteback.so \
 	vendor/htc/dlxj/proprietary/lib/libdiag.so:system/lib/libdiag.so \
 	vendor/htc/dlxj/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmcamera_hdr_lib.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_ov2722_hdr.so:system/lib/libchromatix_ov2722_hdr.so \
@@ -134,6 +134,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/lib/libqmi.so:system/lib/libqmi.so \
 	vendor/htc/dlxj/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_vd6869_default_video.so:system/lib/libchromatix_vd6869_default_video.so \
+	vendor/htc/dlxj/proprietary/lib/libmmcamera_aec.so:system/lib/libmmcamera_aec.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_imx175_preview.so:system/lib/libchromatix_imx175_preview.so \
 	vendor/htc/dlxj/proprietary/lib/libchromatix_imx135_default_video.so:system/lib/libchromatix_imx135_default_video.so \
 	vendor/htc/dlxj/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
