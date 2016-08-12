@@ -50,6 +50,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
+	vendor/htc/dlxj/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
 	vendor/htc/dlxj/proprietary/bin/akmd:system/bin/akmd \
 	vendor/htc/dlxj/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
 	vendor/htc/dlxj/proprietary/bin/ks:system/bin/ks \
