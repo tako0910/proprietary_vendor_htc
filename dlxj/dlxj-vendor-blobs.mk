@@ -50,6 +50,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
+	vendor/htc/dlxj/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
 	vendor/htc/dlxj/proprietary/bin/akmd:system/bin/akmd \
 	vendor/htc/dlxj/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
 	vendor/htc/dlxj/proprietary/bin/ks:system/bin/ks \
@@ -172,7 +173,6 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/etc/firmware/fw_bcm4334_p2p.bin:system/etc/firmware/fw_bcm4334_p2p.bin \
 	vendor/htc/dlxj/proprietary/bin/qseecomd:system/bin/qseecomd \
 	vendor/htc/dlxj/proprietary/bin/hcheck:system/bin/hcheck \
-        vendor/htc/dlxj/proprietary/lib/drm/libfwdlockengine.so:system/lib/drm/libfwdlockengine.so \
 	vendor/htc/dlxj/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
 	vendor/htc/dlxj/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
         vendor/htc/dlxj/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
