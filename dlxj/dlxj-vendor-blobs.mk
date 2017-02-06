@@ -28,6 +28,11 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/dlxj/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
 	vendor/htc/dlxj/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
+	vendor/htc/dlxj/proprietary/etc/firmware/widevine.b00:system/etc/firmware/widevine.b00 \
+	vendor/htc/dlxj/proprietary/etc/firmware/widevine.b01:system/etc/firmware/widevine.b01 \
+	vendor/htc/dlxj/proprietary/etc/firmware/widevine.b02:system/etc/firmware/widevine.b02 \
+	vendor/htc/dlxj/proprietary/etc/firmware/widevine.b03:system/etc/firmware/widevine.b03 \
+	vendor/htc/dlxj/proprietary/etc/firmware/widevine.mdt:system/etc/firmware/widevine.mdt \
 	vendor/htc/dlxj/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
         vendor/htc/dlxj/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
 	vendor/htc/dlxj/proprietary/bin/akmd:system/bin/akmd \
